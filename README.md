@@ -2,3 +2,4 @@
 >Hero:
 
  -Pugna
+ -Tiny
